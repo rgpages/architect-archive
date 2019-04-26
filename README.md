@@ -1,4 +1,4 @@
-In the case that the GateHouse Architect project stops being supported, this will serve a long-term archive for those special projects.
+In the case that the GateHouse Architect project stops being supported, this will serve a long-term archive for the following special projects.
 
 Video and audio can be found in the additional-assets directories.
 
@@ -17,3 +17,7 @@ Architect links:
 Note: Sorry for the inconsistant folder names, I mimicked the URL structure online.
 
 - Rob Denton, 4/26/19
+
+
+(c) The Register-Guard, GateHouse Media, 2019
+
